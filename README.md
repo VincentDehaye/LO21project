@@ -1,1 +1,1 @@
-# LO21project
+# LO21project: Baptiste Amato - Vincent Dehaye
